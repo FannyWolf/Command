@@ -1,0 +1,30 @@
+body {
+    background-color: #f0f8ff; /* Світло-блакитний фон */
+    font-family: Arial, sans-serif;
+    color: #333333; /* Темно-сірий текст */
+}
+
+h1 {
+    color: #2e8b57; /* Зелений текст для заголовка */
+    text-align: center; /* Вирівнювання по центру */
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #4682b4; /* Синій текст для підзаголовка */
+    margin-top: 20px;
+}
+
+p {
+    line-height: 1.6; /* Відстань між рядками */
+    margin: 10px 0;
+}
+
+a {
+    color: #ff6347; /* Червоний текст для посилань */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Підкреслення при наведенні */
+}
